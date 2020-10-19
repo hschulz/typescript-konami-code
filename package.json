@@ -11,8 +11,7 @@
     },
     "scripts": {
         "lint": "eslint ./src/Konami.ts",
-        "test": "nyc mocha",
-        "coverage": "nyc --reporter json mocha"
+        "test": "nyc mocha"
     },
     "dependencies": {
         "typescript": "^4.0.3"
