@@ -5,6 +5,10 @@
     "main": "src/Konami.ts",
     "author": "Hauke Schulz <hauke27@gmail.com>",
     "license": "BSD-3-Clause",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/hschulz/typescript-konami-code"
+    },
     "scripts": {
         "lint": "eslint ./src/Konami.ts",
         "test": "nyc mocha",
