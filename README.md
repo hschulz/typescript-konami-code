@@ -1,6 +1,6 @@
 # KONAMI CODE
 
-[travis-img]: https://img.shields.io/travis/hschulz/typescript-konami-code.svg?style=flat-square
+[travis-img]: https://img.shields.io/travis/com/hschulz/typescript-konami-code?style=flat-square
 [codecov-img]: https://img.shields.io/codecov/c/github/hschulz/typescript-konami-code.svg?style=flat-square
 [github-issues-img]: https://img.shields.io/github/issues/hschulz/typescript-konami-code.svg?style=flat-square
 [contrib-welcome-img]: https://img.shields.io/badge/contributions-welcome-blue.svg?style=flat-square
@@ -12,7 +12,7 @@
 [![contrib-welcome-img]](https://github.com/hschulz/typescript-konami-code/blob/master/CONTRIBUTING.md)
 [![license-img]](https://github.com/hschulz/typescript-konami-code/blob/master/LICENSE)
 
-Everybody knows the konami code `↑ ↑ ↓ ↓ → ← → ← B A`
+Everybody knows the konami code `↑ ↑ ↓ ↓ ← → ← → B A`
 
 Now you can add it to your projects.
 
